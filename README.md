@@ -11,4 +11,5 @@ You can just move by pressing ←↑→↓ key buttons to pass meteors.
 
 <p></p>
 <img width="100%" src="https://user-images.githubusercontent.com/82954812/144192410-13aeff1b-e76c-47ea-a9d1-75a9fe6a425a.png"/>
-If you want to play again, push Spacebar key button.
+If spacebus crush from meteor, The game is gonna be over.<br>
+If you want to play again, Push Spacebar key button.
